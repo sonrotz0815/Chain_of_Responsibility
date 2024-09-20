@@ -1,0 +1,14 @@
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\bin\Debug\net8.0\Chain_of_Responsibility.exe
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\bin\Debug\net8.0\Chain_of_Responsibility.deps.json
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\bin\Debug\net8.0\Chain_of_Responsibility.runtimeconfig.json
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\bin\Debug\net8.0\Chain_of_Responsibility.dll
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\bin\Debug\net8.0\Chain_of_Responsibility.pdb
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\obj\Debug\net8.0\Chain_of_Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\obj\Debug\net8.0\Chain_of_Responsibility.AssemblyInfoInputs.cache
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\obj\Debug\net8.0\Chain_of_Responsibility.AssemblyInfo.cs
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\obj\Debug\net8.0\Chain_of_Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\obj\Debug\net8.0\Chain_of_Responsibility.dll
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\obj\Debug\net8.0\refint\Chain_of_Responsibility.dll
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\obj\Debug\net8.0\Chain_of_Responsibility.pdb
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\obj\Debug\net8.0\Chain_of_Responsibility.genruntimeconfig.cache
+C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\obj\Debug\net8.0\ref\Chain_of_Responsibility.dll
