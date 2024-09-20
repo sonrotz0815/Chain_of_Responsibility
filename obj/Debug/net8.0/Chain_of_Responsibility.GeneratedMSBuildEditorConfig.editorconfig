@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Chain_of_Responsibility
-build_property.ProjectDir = C:\Users\Startklar\Programming\POS\4.Jahr\C#\Chain_of_Responsibility\
+build_property.ProjectDir = C:\gitRepos\Chain_of_Responsibility\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

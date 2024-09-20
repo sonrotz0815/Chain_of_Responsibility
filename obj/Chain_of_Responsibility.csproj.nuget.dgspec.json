@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Startklar\\Programming\\POS\\4.Jahr\\C#\\Chain_of_Responsibility\\Chain_of_Responsibility.csproj": {}
+    "C:\\gitRepos\\Chain_of_Responsibility\\Chain_of_Responsibility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Startklar\\Programming\\POS\\4.Jahr\\C#\\Chain_of_Responsibility\\Chain_of_Responsibility.csproj": {
+    "C:\\gitRepos\\Chain_of_Responsibility\\Chain_of_Responsibility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Startklar\\Programming\\POS\\4.Jahr\\C#\\Chain_of_Responsibility\\Chain_of_Responsibility.csproj",
+        "projectUniqueName": "C:\\gitRepos\\Chain_of_Responsibility\\Chain_of_Responsibility.csproj",
         "projectName": "Chain_of_Responsibility",
-        "projectPath": "C:\\Users\\Startklar\\Programming\\POS\\4.Jahr\\C#\\Chain_of_Responsibility\\Chain_of_Responsibility.csproj",
+        "projectPath": "C:\\gitRepos\\Chain_of_Responsibility\\Chain_of_Responsibility.csproj",
         "packagesPath": "C:\\Users\\Startklar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Startklar\\Programming\\POS\\4.Jahr\\C#\\Chain_of_Responsibility\\obj\\",
+        "outputPath": "C:\\gitRepos\\Chain_of_Responsibility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
